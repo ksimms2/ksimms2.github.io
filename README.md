@@ -24,6 +24,8 @@ I have 2 dogs and 2 cats. | I am innovative.
 ![Golden Circle](ksimms2.github.io/Pro_Dev_Workshop_Purpose.png)
 
 
+
+
 ## Weekly Reflections
 
 ### Week 1
