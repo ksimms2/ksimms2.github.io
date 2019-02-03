@@ -31,3 +31,6 @@ I have 2 dogs and 2 cats. | I am innovative.
 ### Week 1
 After completing week one of the Java and Android Deep Dive Coding Bootcamp, I realize that I have a lot to learn. It is exciting to learn the programming language and how innovative a programmer can be figuring out numerous solutions to a problem. At first the most difficult part was figuring out how to get started writing code and identifying what the question is asking. But learning how to use various loops and code it is slowly beginning to make sense; I look forward to progressing through the bootcamp.
 
+### Week 2
+I am starting to understand the concepts
+
