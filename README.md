@@ -34,11 +34,11 @@ If this image causes you to be confused, that is the point. My current state of 
 ![img_0306 2](https://user-images.githubusercontent.com/44448717/52228422-905cea00-286f-11e9-998f-4cb1b2560448.jpg)
 This image represents my hopeful future life in three year. I imagine my life being tranquil and pleasant because I will be an established coder with more confidence and skill.
 
+
 ## Weekly Reflections
 
 ### Week 1
 After completing week one of the Java and Android Deep Dive Coding Bootcamp, I realize that I have a lot to learn. It is exciting to learn the programming language and how innovative a programmer can be figuring out numerous solutions to a problem. At first the most difficult part was figuring out how to get started writing code and identifying what the question is asking. But learning how to use various loops and code it is slowly beginning to make sense; I look forward to progressing through the bootcamp.
 
 ### Week 2
-I am starting to understand the concepts
-
+Week 2 of the coding bootcamp had it's twists and turns. I am understanding the concepts a little better and starting to understand but I still feel like I still lack the confidence to start coding on my own. I am getting some tutoring as well as watching and doing some coding in Udemy and other sites. I am sure the more I get my hands on actual coding the better I will get.
