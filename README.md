@@ -5,7 +5,7 @@
 * [LinkedIn](https://www.linkedin.com/in/kevin-simms-5099b4174/)
 * [GitHub](https://github.com/ksimms2)
 * [Kevin Simms: Resume](https://drive.google.com/file/d/1ly-CLGzuBvb43XRtKOuKsoSk2KGlg7R8/view?usp=sharing)
-* [Online Presence] (https://docs.google.com/document/d/1zRVtMM-qXjY5bfMyAitWDTz0XA3RulsnS8l4H3m1O1s/edit?usp=sharing)
+* [Online Presence](https://docs.google.com/document/d/1zRVtMM-qXjY5bfMyAitWDTz0XA3RulsnS8l4H3m1O1s/edit?usp=sharing)
 
 ### Hi, my name is Kevin. I want to help change the world by coding new porgrams that help make renewable energy more efficient. I am partnering up with a local engineering firm and coding it with the Java language. Would you like to get together for lunch and discuss it further?
 
