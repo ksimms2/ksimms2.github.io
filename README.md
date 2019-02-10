@@ -8,6 +8,7 @@
 
 ## Pro Dev Workshops
 * [Golden Circle](ksimms2.github.io/Pro_Dev_Workshop_Purpose.png)
+* [Q & Q](Q&Q.md)
 * [Online Presence](https://docs.google.com/document/d/1zRVtMM-qXjY5bfMyAitWDTz0XA3RulsnS8l4H3m1O1s/edit?usp=sharing)
 * [Visuals Speak](Visuals_Speak.md)
 * [Stove Top: Cooking up opprotunities](https://drive.google.com/file/d/11Kz1iSZUw97gQbkgQBmx4iTk9v47vEnk/view?usp=sharing)
@@ -21,19 +22,6 @@
 ## Passion Project
 My passion project started in a IT class, I had to design a website to walk people through a recipe. During the project I came to understand that instructions needed to be descriptive but not overwhelming. But at the same time I was able to be creative about how to present my site. It opened my eyes about my desire to work with computers and give myself another outlet to be creative. It also gave me a new perspective about how much work actually goes into making a website.
     
-## Q & Q 
-
-Quantitative Accomplishments | Qualitative Features
----------------------------- | --------------------------
-I have a associates degree in Radiography. | I am very resourceful.
-I previously owned a business. | I am a very determined person.
-I have 2 dogs and 2 cats. | I am innovative.
-
-
-
-![Golden Circle](ksimms2.github.io/Pro_Dev_Workshop_Purpose.png)
-
-
 
 
 ## Weekly Reflections
