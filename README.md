@@ -7,6 +7,7 @@
 * [Kevin Simms: Resume](https://drive.google.com/file/d/1ly-CLGzuBvb43XRtKOuKsoSk2KGlg7R8/view?usp=sharing)
 
 ## Pro Dev Workshops
+* [Golden Circle](ksimms2.github.io/Pro_Dev_Workshop_Purpose.png)
 * [Online Presence](https://docs.google.com/document/d/1zRVtMM-qXjY5bfMyAitWDTz0XA3RulsnS8l4H3m1O1s/edit?usp=sharing)
 * [Visuals Speak](Visuals_Speak.md)
 * [Stove Top: Cooking up opprotunities](https://drive.google.com/file/d/11Kz1iSZUw97gQbkgQBmx4iTk9v47vEnk/view?usp=sharing)
