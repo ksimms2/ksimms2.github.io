@@ -11,6 +11,7 @@
 * [Visuals Speak](Visuals_Speak.md)
 * [Stove Top: Cooking up opprotunities](https://drive.google.com/file/d/11Kz1iSZUw97gQbkgQBmx4iTk9v47vEnk/view?usp=sharing)
 * Tech Recommendations: [UNMH Tech Needs](https://docs.google.com/document/d/14gx55Lifg9EJBgd3ajZPYqmoshr22ECjs6qoCALarpw/edit?usp=sharing), [PNM Tech Needs](https://docs.google.com/document/d/16tDN1-GHzvga0LPK6IGfr3407xWVWjgktTGmJSYt_cQ/edit?usp=sharing)
+* [Salary Expectations](Salary_Expectations.md)
 
 ### Hi, my name is Kevin. I want to help change the world by coding new porgrams that help make renewable energy more efficient. I am partnering up with a local engineering firm and coding it with the Java language. Would you like to get together for lunch and discuss it further?
 
