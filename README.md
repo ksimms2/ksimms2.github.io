@@ -7,6 +7,7 @@
 * [Kevin Simms: Resume](https://drive.google.com/file/d/1ly-CLGzuBvb43XRtKOuKsoSk2KGlg7R8/view?usp=sharing)
 * [Online Presence](https://docs.google.com/document/d/1zRVtMM-qXjY5bfMyAitWDTz0XA3RulsnS8l4H3m1O1s/edit?usp=sharing)
 * [Stove Top: Cooking up opprotunities](https://drive.google.com/file/d/11Kz1iSZUw97gQbkgQBmx4iTk9v47vEnk/view?usp=sharing)
+* Tech Recommendations: [UNMH Tech Needs](https://docs.google.com/document/d/14gx55Lifg9EJBgd3ajZPYqmoshr22ECjs6qoCALarpw/edit?usp=sharing)
 
 ### Hi, my name is Kevin. I want to help change the world by coding new porgrams that help make renewable energy more efficient. I am partnering up with a local engineering firm and coding it with the Java language. Would you like to get together for lunch and discuss it further?
 
