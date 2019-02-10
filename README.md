@@ -6,6 +6,7 @@
 * [GitHub](https://github.com/ksimms2)
 * [Kevin Simms: Resume](https://drive.google.com/file/d/1ly-CLGzuBvb43XRtKOuKsoSk2KGlg7R8/view?usp=sharing)
 * [Online Presence](https://docs.google.com/document/d/1zRVtMM-qXjY5bfMyAitWDTz0XA3RulsnS8l4H3m1O1s/edit?usp=sharing)
+* [Stove Top](ksimms2.github.io/Stove Top.pdf)
 
 ### Hi, my name is Kevin. I want to help change the world by coding new porgrams that help make renewable energy more efficient. I am partnering up with a local engineering firm and coding it with the Java language. Would you like to get together for lunch and discuss it further?
 
@@ -42,3 +43,6 @@ After completing week one of the Java and Android Deep Dive Coding Bootcamp, I r
 
 ### Week 2
 Week 2 of the coding bootcamp had it's twists and turns. I am understanding the concepts a little better and starting to understand but I still feel like I still lack the confidence to start coding on my own. I am getting some tutoring as well as watching and doing some coding in Udemy and other sites. I am sure the more I get my hands on actual coding the better I will get.
+
+### Week 3
+Week 3 of the coding bootcamp came with another roller coaster. There were numerous ups and downs that opened up more questions about coding. But, this is a good thing. The questions have been motivating me more to study when I tired. I have been lucky to have classmates that are willing to help. The presentations at the end of the week were very comforting. The theme was about exactly what I was experiencing that week about using those feeling of failure to motivate you or not letting the success trick you that you know very thing. So I practiced writing code this week to help eliminate this fear that I don't know anything. It has helped so far. But the more I do the better I feel.
