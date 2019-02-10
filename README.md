@@ -28,7 +28,7 @@ I have a associates degree in Radiography. | I am very resourceful.
 I previously owned a business. | I am a very determined person.
 I have 2 dogs and 2 cats. | I am innovative.
 
-## My Golden Circle
+
 
 ![Golden Circle](ksimms2.github.io/Pro_Dev_Workshop_Purpose.png)
 
