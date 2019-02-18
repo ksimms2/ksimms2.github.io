@@ -34,3 +34,6 @@ Week 2 of the coding bootcamp had it's twists and turns. I am understanding the 
 
 ### Week 3
 Week 3 of the coding bootcamp came with another roller coaster. There were numerous ups and downs that opened up more questions about coding. But, this is a good thing. The questions have been motivating me more to study when I tired. I have been lucky to have classmates that are willing to help. The presentations at the end of the week were very comforting. The theme was about exactly what I was experiencing that week about using those feeling of failure to motivate you or not letting the success trick you that you know very thing. So I practiced writing code this week to help eliminate this fear that I don't know anything. It has helped so far. But the more I do the better I feel.
+
+### Week 4
+Week 4, We took our first exam. I thought I understood things. But It turns out that I was focusing on the wrong type of studying. So I am refocusing on a more code writing aspect of my education. I will continue to swim on and get better. I still know that I know more about Java than I did 4 weeks ago... That is a positive.
