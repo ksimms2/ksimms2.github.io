@@ -37,3 +37,6 @@ Week 3 of the coding bootcamp came with another roller coaster. There were numer
 
 ### Week 4
 Week 4, We took our first exam. I thought I understood things. But It turns out that I was focusing on the wrong type of studying. So I am refocusing on a more code writing aspect of my education. I will continue to swim on and get better. I still know that I know more about Java than I did 4 weeks ago... That is a positive.
+
+### Week 5
+Week 5, I have seen some good progression in my coding skills, which is a positive. I think I figured out how to study Java a little better, but Android is a much harder task to figure out. I am doing as much tutoring as possible, but seemed to be stretched to my max. I have been learning about the value of recursion in coding. I am understanding concepts but it is still a tall order to take right now.
