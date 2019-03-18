@@ -4,7 +4,7 @@
 
 * [LinkedIn](https://www.linkedin.com/in/kevin-simms-5099b4174/)
 * [GitHub](https://github.com/ksimms2)
-* [Kevin Simms: Resume](https://drive.google.com/file/d/1g_g2k0Gs1dr7pRc04AmBLiDHKU0zhWyV/view?usp=sharing)
+* [Kevin Simms: Resume](https://drive.google.com/file/d/1x75lbWeFCAARnefR-glhNUpY_T83PPCQ/view?usp=sharing)
 
 ## Pro Dev Workshops
 * [Golden Circle](ksimms2.github.io/Pro_Dev_Workshop_Purpose.png)
